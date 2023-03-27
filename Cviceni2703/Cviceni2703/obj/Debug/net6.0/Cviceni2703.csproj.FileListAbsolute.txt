@@ -1,0 +1,15 @@
+D:\Šimon Bernard C3b\PV\Cviceni2703\Cviceni2703\bin\Debug\net6.0\Cviceni2703.exe
+D:\Šimon Bernard C3b\PV\Cviceni2703\Cviceni2703\bin\Debug\net6.0\Cviceni2703.deps.json
+D:\Šimon Bernard C3b\PV\Cviceni2703\Cviceni2703\bin\Debug\net6.0\Cviceni2703.runtimeconfig.json
+D:\Šimon Bernard C3b\PV\Cviceni2703\Cviceni2703\bin\Debug\net6.0\Cviceni2703.dll
+D:\Šimon Bernard C3b\PV\Cviceni2703\Cviceni2703\bin\Debug\net6.0\Cviceni2703.pdb
+D:\Šimon Bernard C3b\PV\Cviceni2703\Cviceni2703\obj\Debug\net6.0\Cviceni2703.csproj.AssemblyReference.cache
+D:\Šimon Bernard C3b\PV\Cviceni2703\Cviceni2703\obj\Debug\net6.0\Cviceni2703.GeneratedMSBuildEditorConfig.editorconfig
+D:\Šimon Bernard C3b\PV\Cviceni2703\Cviceni2703\obj\Debug\net6.0\Cviceni2703.AssemblyInfoInputs.cache
+D:\Šimon Bernard C3b\PV\Cviceni2703\Cviceni2703\obj\Debug\net6.0\Cviceni2703.AssemblyInfo.cs
+D:\Šimon Bernard C3b\PV\Cviceni2703\Cviceni2703\obj\Debug\net6.0\Cviceni2703.csproj.CoreCompileInputs.cache
+D:\Šimon Bernard C3b\PV\Cviceni2703\Cviceni2703\obj\Debug\net6.0\Cviceni2703.dll
+D:\Šimon Bernard C3b\PV\Cviceni2703\Cviceni2703\obj\Debug\net6.0\refint\Cviceni2703.dll
+D:\Šimon Bernard C3b\PV\Cviceni2703\Cviceni2703\obj\Debug\net6.0\Cviceni2703.pdb
+D:\Šimon Bernard C3b\PV\Cviceni2703\Cviceni2703\obj\Debug\net6.0\Cviceni2703.genruntimeconfig.cache
+D:\Šimon Bernard C3b\PV\Cviceni2703\Cviceni2703\obj\Debug\net6.0\ref\Cviceni2703.dll
