@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cviceni2003/1.0.0": {
+        "runtime": {
+          "Cviceni2003.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cviceni2003/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
